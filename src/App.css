@@ -38,10 +38,8 @@ h1{
 
 #body{
     font-size: 30px;
-    /*background: rgba(121,0,0,0.5);*/
-    /*background: linear-gradient(90deg, rgba(121,0,0,1) 0%, rgba(207,0,0,1) 62%);*/
     background: url(./bgred.jpg);
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-size: cover;
     color: white;
     font-family: 'League Gothic', sans-serif;
@@ -139,4 +137,8 @@ h1{
 .logo{
     display: block;
     margin: 0 auto;
+}
+
+.section2{
+    width: 200px;
 }

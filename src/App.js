@@ -123,8 +123,8 @@ function App() {
       $(".section2 p,.section1 span,.section3 span").remove();
       $(".bookchar").removeClass("selected");
       $(".bookchar .smalltext").text("Click to compare with another character");
-      $(".firstchargraph,.secondchargraph").css("height","0px");
       $(".section1 img,.section3 img").remove();
+      $(".firstchargraph,.secondchargraph").css({height: "1px"});
     })
   }
 
