@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/MarvelCharacterSearch/static/css/main.49dbb9f3.chunk.css",
+    "main.js": "/MarvelCharacterSearch/static/js/main.af5925c7.chunk.js",
+    "main.js.map": "/MarvelCharacterSearch/static/js/main.af5925c7.chunk.js.map",
+    "runtime-main.js": "/MarvelCharacterSearch/static/js/runtime-main.40582b2a.js",
+    "runtime-main.js.map": "/MarvelCharacterSearch/static/js/runtime-main.40582b2a.js.map",
+    "static/css/2.d6008dad.chunk.css": "/MarvelCharacterSearch/static/css/2.d6008dad.chunk.css",
+    "static/js/2.13592cbb.chunk.js": "/MarvelCharacterSearch/static/js/2.13592cbb.chunk.js",
+    "static/js/2.13592cbb.chunk.js.map": "/MarvelCharacterSearch/static/js/2.13592cbb.chunk.js.map",
+    "index.html": "/MarvelCharacterSearch/index.html",
+    "static/css/2.d6008dad.chunk.css.map": "/MarvelCharacterSearch/static/css/2.d6008dad.chunk.css.map",
+    "static/css/main.49dbb9f3.chunk.css.map": "/MarvelCharacterSearch/static/css/main.49dbb9f3.chunk.css.map",
+    "static/js/2.13592cbb.chunk.js.LICENSE.txt": "/MarvelCharacterSearch/static/js/2.13592cbb.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/MarvelCharacterSearch/static/media/bgred.30f4d0c9.jpg",
+    "static/media/marvellogo.0638ee23.png": "/MarvelCharacterSearch/static/media/marvellogo.0638ee23.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40582b2a.js",
+    "static/css/2.d6008dad.chunk.css",
+    "static/js/2.13592cbb.chunk.js",
+    "static/css/main.49dbb9f3.chunk.css",
+    "static/js/main.af5925c7.chunk.js"
+  ]
+}
