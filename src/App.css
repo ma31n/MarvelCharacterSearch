@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Gothic&display=swap');
+
+
+.picture{
+    object-fit: cover;
+    width: 500px;
+    height: 500px;
+    border: 3px solid white;
+    border-radius: 5px;
+    padding: 5px;
+    display: inline-block;
+}
+
+#App{
+    background-color: rgb(34, 34, 34);
+    padding: 25px;
+}
+
+h1{
+    color: white;
+}
+
+#bookmarklist{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.btn{
+    width: 100px;
+    background-color: rgb(204, 0, 0) !important;
+    font-size: 25px !important;
+}
+
+.alert{
+    background-color: rgb(204, 0, 0) !important;
+}
+
+
+#body{
+    font-size: 30px;
+    /*background: rgba(121,0,0,0.5);*/
+    /*background: linear-gradient(90deg, rgba(121,0,0,1) 0%, rgba(207,0,0,1) 62%);*/
+    background: url(./bgred.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-family: 'League Gothic', sans-serif;
+}
+
+#bookmarkname{
+    text-align: center;
+}
+
+.picturebookmark{
+    object-fit: cover;
+    width: 100px;
+    height: 100px;
+    border: 3px solid white;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.bookchar{
+    border: 3px solid red;
+    border-radius: 5px;
+    margin-top: 20px;
+    padding: 5px;
+}
+
+.bookchar:hover, .selected{
+    background: rgba(255, 0, 0, 0.3);
+}
+
+.bookmarkedcharacters p{
+    display: inline-block;
+    margin: 8px;
+}
+
+#select{
+    font-size: 20px;
+}
+
+.carousel-item{
+    padding: 10px;
+}
+
+.carousel-item h1{
+    color: rgb(204, 0, 0);
+}
+
+.credit{
+    font-size: 20px;
+    text-align: center;
+}
+
+.modal-header,.modal-body,.modal-footer{
+    background-color: black !important;
+}
+
+.firstchargraph,.secondchargraph{
+    width: 80px;
+    height: 0px;
+    background-color: rgb(204, 0, 0);
+    margin: 5px;
+}
+
+.section1,.section2,.section3{
+    display: inline-block;
+    margin: 5px;
+}
+
+.smalltext{
+    font-size: 20px;
+    color: lightgray;
+}
+
+.comparephoto{
+    object-fit: cover;
+    width: 80px;
+    height: 80px;
+    border: 3px solid white;
+    border-radius: 5px;
+    padding: 5px;
+    display: inline-block;
+}
+
+.modaldiv{
+    text-align: center;
+}
+
+#titleLabel{
+    font-size: 30px;
+}
+
+.modal-footer p{
+    font-size: 18px;
+}
+
+.logo{
+    display: block;
+    margin: 0 auto;
+}
